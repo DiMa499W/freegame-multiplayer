@@ -1,4 +1,4 @@
-ChatGPT said:
+
 HAX — Project README
 
 A minimal multiplayer lobby & prototype game called Hax.
